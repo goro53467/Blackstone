@@ -50,9 +50,9 @@ Blackstone is a [spaCy](https://spacy.io/) model and library for processing long
 
 The past several years have seen a surge in activity at the intersection of law and technology. However, in the United Kingdom, the overwhelming bulk of that activity has taken place in law firms and other commercial contexts. The consequence of this is that despite the never ending flurry of development in the legal-informatics space, almost none of the research is made available on an open-source basis. 
 
-Moreover, the majoritry of research in the UK legal-informatics domain (whether open or closed) has focussed on the development of NLP applications for automating contracts and other legal documents that are transactional in nature. This is understandable, because the principal benefactors of legal NLP research in the UK are law firms and law firms tend not to find it difficult to get their hands on transactional documentation that can be harnessed as training data. 
+Moreover, the majority of research in the UK legal-informatics domain (whether open or closed) has focussed on the development of NLP applications for automating contracts and other legal documents that are transactional in nature. This is understandable, because the principal benefactors of legal NLP research in the UK are law firms and law firms tend not to find it difficult to get their hands on transactional documentation that can be harnessed as training data. 
 
-The problem, as we see it, is that legal NLP research in the UK has become over concentrated on commercial applications and that it is worthwhile making the investment in developing legal NLP research available with respect to other legal texts, such as judgments, scholarly articles, skeleton arguments and pleadings. 
+The problem, as we see it, is that legal NLP research in the UK has become over concentrated on commercial applications and that it is worthwhile investing in developing and making available legal NLP research with respect to other legal texts, such as judgments, scholarly articles, skeleton arguments and pleadings. 
 
 ## What's special about Blackstone?
 
